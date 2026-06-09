@@ -9,19 +9,19 @@ The goal is not only to build a website, but to build a reliable harness around 
 - find the right context quickly,
 - make small, traceable changes,
 - follow consistent rules,
-- record decisions and prompts,
+- record decisions,
 - and improve over time without drifting.
 
 ## Current phase
 
-- a path for later prompt logging,
-  
+This project is currently in a documentation-first bootstrap phase.
+
 Before substantial app code is generated, the repository should establish:
 
 - clear project goals,
 - structured documentation,
 - source tracking,
-- prompt logging,
+- a path for later prompt logging,
 - execution plans,
 - and lightweight quality checks.
 
