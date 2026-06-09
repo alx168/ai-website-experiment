@@ -10,20 +10,19 @@ This plan covers documentation structure, source tracking, prompt logging, execu
 
 ## Checklist
 
-- [ ] Create `README.md`
-- [ ] Create `docs/index.md`
-- [ ] Create `docs/sources.md`
-- [ ] Add the OpenAI harness engineering article as a canonical source
-- [ ] Create `docs/product-spec.md`
-- [ ] Create `docs/architecture.md`
-- [ ] Create `docs/prompt-log.md`
-- [ ] Create `docs/decisions.md`
-- [ ] Create `docs/quality-rules.md`
-- [ ] Create `docs/glossary.md`
-- [ ] Create `docs/exec-plans/completed/`
-- [ ] Create `docs/exec-plans/tech-debt-tracker.md`
-- [ ] Convert `AGENTS.md` into a shorter table of contents and rule index
+- [x] Create `README.md`
+- [x] Create `docs/index.md`
+- [x] Create `docs/sources.md`
+- [x] Add the OpenAI harness engineering article as a canonical source
+- [x] Create `docs/product-spec.md`
+- [x] Create `docs/architecture.md`
+- [x] Create `docs/quality-rules.md`
+- [x] Create `docs/decisions.md`
+- [x] Create `docs/glossary.md`
+- [x] Create `docs/exec-plans/completed/`
+- [x] Create `docs/exec-plans/tech-debt-tracker.md`
+- [x] Convert `AGENTS.md` into a shorter table of contents and rule index
 - [ ] Define the prompt log entry format
 - [ ] Define the execution plan format
 - [ ] Define the decision record format
-- [ ] Decide the minimum bar for app scaffolding
+- [x] Decide the minimum bar for app scaffolding
