@@ -14,8 +14,8 @@ The goal is not only to build a website, but to build a reliable harness around 
 
 ## Current phase
 
-This project is currently in a documentation-first bootstrap phase.
-
+- a path for later prompt logging,
+  
 Before substantial app code is generated, the repository should establish:
 
 - clear project goals,
@@ -41,7 +41,9 @@ Before substantial app code is generated, the repository should establish:
 - `docs/sources.md` — canonical and secondary sources
 - `docs/product-spec.md` — product goals and scope
 - `docs/architecture.md` — system structure and technical direction
-- `docs/prompt-log.md` — running log of significant prompts and outputs
+- `docs/quality-rules.md` — quality expectations
+- `docs/decisions.md` — accepted project decisions
+- `docs/glossary.md` — project terminology
 - `docs/exec-plans/` — active and completed execution plans
 
 ## Status
